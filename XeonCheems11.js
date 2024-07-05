@@ -6655,7 +6655,7 @@ case 'blur':
         case 'totalcommand': 
             replygcxeon(`Total Features of ${botname} is ${xeonfeature()}`)
         break
-            case 'menu':
+            case 'malik':
             case 'help': {
             let ownernya = ownernumber + '@s.whatsapp.net'
             let timestampe = speed()
@@ -6663,11 +6663,11 @@ case 'blur':
             let a = db.data.users[sender]
             let me = m.sender
             let xmenu_oh = `┌─❖
-│ Hi 👋 
+│ 𝗔𝗦𝗦𝗔𝗟𝗔𝗠𝗨 𝗔𝗟𝗔𝗜𝗞𝗨𝗠 🤝
 └┬❖  ${pushname} 
 ┌┤✑  ${xeonytimewisher} 😄${readmore} 
 │└────────────┈ ⳹
-│
+│ 𝗜𝘁'𝘀 𝗠𝗮𝗹𝗶𝗸'𝘀 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗪𝗔 𝗕𝗼𝘁
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊 
 │𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
 │𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
@@ -6823,7 +6823,7 @@ if (typemenu === 'v1') {
                     }
 }
 break
-            case 'allmenu': {
+            case 'menu': {
 let xmenu_oh = `Hi ${pushname}${readmore}\n\n${allmenu(prefix, hituet)}`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
