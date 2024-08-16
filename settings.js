@@ -21,7 +21,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //new
 global.botname = "Malik's personal bot" //ur bot name
 global.ownernumber = '923263429027' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
+global.ownername = 'MALIK MEHTAB' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
 global.themeemoji = '🪀'
