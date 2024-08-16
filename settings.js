@@ -14,7 +14,7 @@ const chalk = require('chalk')
 global.sessionid ='ur session id'
 
 //owmner v card
-global.ytname = "YT: problemsolved" //ur yt chanel name
+global.ytname = "YT: problem_solved" //ur yt chanel name
 global.socialm = "GitHub: themalik-g" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
@@ -23,10 +23,10 @@ global.botname = "Malik's personal bot" //ur bot name
 global.ownernumber = '923263429027' //ur owner number
 global.ownername = 'MALIK MEHTAB' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
+global.wagc = "https://chat.whatsapp.com/KrJhpZhgKxZLfHcyUZKOMw"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
+global.botscript = 'https://github.com/themalik-g/CheemsBot-MD11' //script link
 global.packname = "MALIK"
 global.author = "MEHTAB"
 global.creator = "923263429027@s.whatsapp.net"
